@@ -1,8 +1,6 @@
 # Soldier_race
 Implementing many algorithms commonly used for Multi-Class Classification problems such as Logistic Regression, Support Vector Machine, XGBoost and Random Forest algorithms, also enhancing the scores with SMOTE, using SHAP to explain how the best model.
 
-# Project Name
-
 **Welcome!**
 
 In this project, you will apply Exploratory Data Analysis (EDA) processes to develop predictive models. You'll face challenges such as handling outliers, utilizing domain knowledge, and performing feature engineering.
