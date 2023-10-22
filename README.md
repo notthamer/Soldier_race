@@ -54,9 +54,4 @@ Evaluate the success of your models using appropriate performance metrics. Choos
 - Implement XGBoost Classifier
 - Compare The Models
 
-**Note:** During the EDA, consider dropping unnecessary columns and the "DODRace" class if the value count is below 500, as it may affect the model's ability to learn effectively.
-
----
-
-Feel free to tailor this template to your specific project, adding more details or sections as needed. Good luck with your project!
 
